@@ -5,11 +5,14 @@ The project aims to compare key indicators across selected countries. It contain
 ## Visualizations
 #### 1. The Current Level of Uneducated Individuals (1970-2010) in World Countries
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/c3f9bb19-9a9e-47d6-b7c2-4ee78840450e)
+#### 2. The Current Level of Uneducated Individuals (1970-2010) in Poland
+![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/5fbd1b6c-5cdd-463d-9e22-93c9a6c43616)
 
 ## Technology stack
 - Python
 - Jupyter
 - Pandas
+- Matplotlib
 
 ## Sources
 * Dataset: [Health & Education of Top Countries](https://www.kaggle.com/datasets/vinayak121/health-and-education-of-top-countries/data) from Kaggle
