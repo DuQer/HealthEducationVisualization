@@ -7,6 +7,8 @@ The project aims to compare key indicators across selected countries. It contain
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/c3f9bb19-9a9e-47d6-b7c2-4ee78840450e)
 #### 2. The Current Level of Uneducated Individuals (1970-2010) in Poland
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/5fbd1b6c-5cdd-463d-9e22-93c9a6c43616)
+#### 3. Gender Disparities in Educational Attainment Over Time: Poland (Age 15 and Older)
+![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/6f1947e2-a720-472f-b385-e3454c4ac9f0)
 
 ## Technology stack
 - Python
