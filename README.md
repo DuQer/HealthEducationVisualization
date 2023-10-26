@@ -17,6 +17,7 @@ The project aims to compare key indicators across selected countries. It contain
 - Jupyter
 - Pandas
 - Matplotlib
+- Seaborn
 
 ## Sources
 * Dataset: [Health & Education of Top Countries](https://www.kaggle.com/datasets/vinayak121/health-and-education-of-top-countries/data) from Kaggle
