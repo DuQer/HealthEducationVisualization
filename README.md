@@ -9,6 +9,8 @@ The project aims to compare key indicators across selected countries. It contain
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/5fbd1b6c-5cdd-463d-9e22-93c9a6c43616)
 #### 3. Gender Disparities in Educational Attainment Over Time: Poland (Age 15 and Older)
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/6f1947e2-a720-472f-b385-e3454c4ac9f0)
+#### 4. Europe Educational Disparities Heatmap
+![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/2d5c845b-8dda-4f1f-9dd4-88eccd68f6c8)
 
 ## Technology stack
 - Python
