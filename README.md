@@ -2,12 +2,45 @@
 
 ## Table of contents
 * [Overview](#overview)
+* [Usage](#usage)
 * [Visualizations](#visualizations)
 * [Technology stack](#technology-stack)
 * [Sources](#sources)
 
+
 ## Overview
 The project aims to compare key indicators across selected countries. It contains a comprehensive dataset comparing education and health indicators across top countries including Poland, Finland, Italy, and the USA etc… It includes key metrics like literacy rates, enrollment rates, education spending, life expectancy, infant mortality rates, and healthcare spending. Data is sourced from reputable outlets such as the World Bank, United Nations, and national government websites.
+
+## Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/DuQer/HealthEducationVisualization.git
+2. **Navigate to the project directory:**
+   ```bash
+   cd HealthEducationVisualization
+3. **Create a virtual environment:**
+   ```bash
+   python -m venv venv
+4. **Activate the virtual environment:**
+   
+   - On Windows:
+    ```bash
+   venv\Scripts\activate
+    ```
+   - On macOS and Linux:
+   ```bash
+   source venv/bin/activate
+    ```
+   
+6. **Install dependencies using pip:**
+   ```bash
+   pip install -r requirements.txt
+7. **Start Jupyter Notebook:**
+   ```bash
+   jupyter notebook
+   ```
+   
 ## Visualizations
 #### 1. The Current Level of Uneducated Individuals (1970-2010) in World Countries
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/c3f9bb19-9a9e-47d6-b7c2-4ee78840450e)
@@ -19,7 +52,6 @@ The project aims to compare key indicators across selected countries. It contain
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/b622d483-e66c-47ba-9503-a068c131101c)
 #### 5. Europe Educational Disparities Heatmap
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/26b0072e-d884-4866-819b-3271ad9cbfd5)
-
 
 ## Technology stack
 - Python
