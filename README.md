@@ -4,6 +4,8 @@
 * [Overview](#overview)
 * [Usage](#usage)
 * [Visualizations](#visualizations)
+  * [Education](#education)
+  * [Health](#health)
 * [Technology stack](#technology-stack)
 * [Sources](#sources)
 
@@ -42,6 +44,7 @@ The project aims to compare key indicators across selected countries. It contain
    ```
    
 ## Visualizations
+### Education
 #### 1. The Current Level of Uneducated Individuals (1970-2010) in World Countries
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/c3f9bb19-9a9e-47d6-b7c2-4ee78840450e)
 #### 2. The Current Level of Uneducated Individuals (1970-2010) in Poland
@@ -53,6 +56,9 @@ The project aims to compare key indicators across selected countries. It contain
 #### 5. Europe Educational Disparities Heatmap
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/26b0072e-d884-4866-819b-3271ad9cbfd5)
 
+### Health
+#### 1. Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)
+![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/26b0072e-d884-4866-819b-3271ad9cbfd5)
 ## Technology stack
 - Python
 - Jupyter
