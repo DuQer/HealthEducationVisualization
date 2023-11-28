@@ -59,6 +59,9 @@ The project aims to compare key indicators across selected countries. It contain
 ### Health
 #### 1. Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)
 ![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/afea66e0-74c1-4a52-a25a-707db7714dbd)
+#### 2. Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)
+![image](https://github.com/DuQer/HealthEducationVisualization/assets/66977132/d746f7ba-1450-41a1-8b42-da99bf6b1969)
+
 
 ## Technology stack
 - Python
